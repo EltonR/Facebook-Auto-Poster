@@ -9,7 +9,6 @@ public class ObterGrupos extends javax.swing.JFrame {
     
     ArrayList<Grupo> lista;
     WebDriver driver;
-    
 
     public ObterGrupos(WebDriver wd) {
         driver = wd;
